@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Peraka%20Dola%20Naga%20Syam%20Kumar&fontSize=40&animation=fadeIn&fontAlignY=38&desc=SDET-II%20%7C%20Playwright%20%7C%20TypeScript%20%7C%20AI-Assisted%20Testing%20%7C%20CI-CD&descAlignY=55&descSize=20" alt="Header Banner" />
+</div>
 
-<!--
-**pdnsyamkumar-work/pdnsyamkumar-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>🚀 Open for New Opportunities</h3>
+  <a href="https://linkedin.com/in/pdnsyamkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pdnsyamkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pdnsyamkumar-work" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM_Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Packages" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Welcome to my GitHub! I am a **Software Development Engineer in Test (SDET-II)** with 3.7+ years of experience engineering resilient, automated testing solutions. I specialize in the **Playwright & TypeScript** ecosystem, building highly modular frameworks that slash regression cycle times and eradicate flaky tests. 
+
+* 🔭 **Currently working on:** Advanced Playwright/TypeScript automation frameworks and integrating AI-Assisted Testing (Generative AI, Agent Skills) at **KnackLabs**.
+* 🌱 **Deep diving into:** Next-gen shift-left testing, parallel orchestration via Azure DevOps/GitHub Actions, and GraphQL/REST API contract validation.
+* ⚡ **Fun fact:** I love reducing test boilerplate! I architected a scalable NPM monorepo specifically for framework-agnostic data generation and Playwright abstractions.
+
+<br />
+
+## 🛠️ Tech Stack & Expertise
+
+### Core Visual Stack
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Programming</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" /><br>
+      TypeScript, JS, Node
+    </td>
+    <td align="center" width="25%">
+      <b>Automation</b><br><br>
+      <img src="https://skillicons.dev/icons?i=playwright,postman,graphql,selenium" /><br>
+      Playwright, Postman, APIs
+    </td>
+    <td align="center" width="25%">
+      <b>DevOps & DBs</b><br><br>
+      <img src="https://skillicons.dev/icons?i=azure,githubactions,git,mysql" /><br>
+      Azure, Actions, SQL
+    </td>
+    <td align="center" width="25%">
+      <b>Management & OS</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,vscode,idea" /><br>
+      Linux, Agile Tools
+    </td>
+  </tr>
+</table>
+
+### Comprehensive Skillset
+- **Test Automation:** Playwright, Test Automation Architecture, Page Object Model (POM), Parallel Execution, Flaky Test Reduction.
+- **API & Performance:** REST & GraphQL API Testing, API Contract Validation, OpenAPI, Swagger, k6 (Performance & Load Testing), Functional & Regression Testing, Postman.
+- **Programming & Web:** JavaScript, TypeScript, HTML, CSS, DOM, SQL, SOQL, YAML.
+- **DevOps, Tools & Reporting:** Azure DevOps Pipelines, GitHub Actions, Git, CI/CD Integration, Allure Reporting, Linux.
+- **QA Methodologies:** Risk-Based Testing, Shift-Left Testing, Smoke Testing, Defect Triage, Agile/Scrum, STLC/SDLC.
+- **Test Management:** JIRA, TestRail, ProofHub.
+- **AI-Assisted Testing & Gen AI:** Vibe Coding, SKILL.md-based Agent Skills, Antigravity, Cursor, ChatGPT, Claude, Codex.
+
+<br />
+
+## 🚀 Featured Projects & Labs
+
+### 📦 Custom Automation NPM Packages *(Open Source)*
+Architected a scalable open-source NPM monorepo featuring a framework-agnostic data generator (`test-utils`), strict TypeScript utilities (`ts-utils`), and a custom Playwright abstraction layer (`playwright-base`). 
+> **Impact:** Reduced test boilerplate across engineering teams by **10-15%** and standardized data-driven architecture.
+
+### 🛍️ Commerce Operations Platform *(Personal Practice Lab)*
+Designed and built a comprehensive test automation framework simulating a high-volume, multi-tenant commerce operations platform. This personal project serves as an advanced practice lab to hone my skills in cutting-edge automation techniques.
+> **Highlights:** Achieved simulated **85% test coverage**, practiced risk-based test selection, and executed complex automated test data setup using SQL/SOQL scripts to test concurrent API stability and data integrity.
+
+### 🤖 AI-Assisted Testing Initiatives *(Professional)*
+Pioneered the use of Generative AI tools and SKILL.md-based Agent Skills to write robust test suites and handle repetitive maintenance at KnackLabs.
+> **Impact:** Shift-left flaky test reduction lowered release blockers by **25%** and dramatically improved CI/CD pipeline reliability.
+
+<br />
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pdnsyamkumar-work&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdnsyamkumar-work&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pdnsyamkumar-work/bg.svg" alt="Profile Visitor Counter" />
+</div>
