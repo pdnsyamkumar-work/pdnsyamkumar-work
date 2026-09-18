@@ -24,39 +24,20 @@
 
 Welcome to my GitHub! I am a **Software Development Engineer in Test (SDET-II)** with 3.7+ years of experience engineering resilient, automated testing solutions. I specialize in the **Playwright & TypeScript** ecosystem, building highly modular frameworks that slash regression cycle times and eradicate flaky tests. 
 
-* 🔭 **Currently working on:** Advanced Playwright/TypeScript automation frameworks and integrating AI-Assisted Testing (Generative AI, Agent Skills) at **KnackLabs**.
-* 🌱 **Deep diving into:** Next-gen shift-left testing, parallel orchestration via Azure DevOps/GitHub Actions, and GraphQL/REST API contract validation.
-* ⚡ **Fun fact:** I love reducing test boilerplate! I architected a scalable NPM monorepo specifically for framework-agnostic data generation and Playwright abstractions.
+* 🔭 **Currently working on:** Advanced Playwright/TypeScript frameworks and integrating AI-Assisted Testing (Generative AI, Agent Skills) at **KnackLabs**.
+* 🌱 **Deep diving into:** Next-gen shift-left testing, parallel orchestration, and GraphQL/REST API contract validation.
+* ⚡ **Fun fact:** I love reducing test boilerplate! I architected a scalable NPM monorepo specifically for framework-agnostic data generation.
 
 <br />
 
 ## 🛠️ Tech Stack & Expertise
 
-### Core Visual Stack
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Programming</b><br><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" /><br>
-      TypeScript, JS, Node
-    </td>
-    <td align="center" width="25%">
-      <b>Automation</b><br><br>
-      <img src="https://skillicons.dev/icons?i=playwright,postman,graphql,selenium" /><br>
-      Playwright, Postman, APIs
-    </td>
-    <td align="center" width="25%">
-      <b>DevOps & DBs</b><br><br>
-      <img src="https://skillicons.dev/icons?i=azure,githubactions,git,mysql" /><br>
-      Azure, Actions, SQL
-    </td>
-    <td align="center" width="25%">
-      <b>Management & OS</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,vscode,idea" /><br>
-      Linux, Agile Tools
-    </td>
-  </tr>
-</table>
+### 🌟 Core Visual Stack
+<div align="center">
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="48" alt="Playwright" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,graphql,postman,azure,githubactions,git,github,mysql,postgres,linux,ubuntu,npm,bash,vscode,docker,figma" height="48" alt="My Skills" />
+</div>
 
 ### Comprehensive Skillset
 - **Test Automation:** Playwright, Test Automation Architecture, Page Object Model (POM), Parallel Execution, Flaky Test Reduction.
@@ -73,15 +54,15 @@ Welcome to my GitHub! I am a **Software Development Engineer in Test (SDET-II)**
 
 ### 📦 Custom Automation NPM Packages *(Open Source)*
 Architected a scalable open-source NPM monorepo featuring a framework-agnostic data generator (`test-utils`), strict TypeScript utilities (`ts-utils`), and a custom Playwright abstraction layer (`playwright-base`). 
-> **Impact:** Reduced test boilerplate across engineering teams by **10-15%** and standardized data-driven architecture.
+> **Impact:** Significantly reduced test boilerplate across engineering teams and standardized data-driven architecture.
 
 ### 🛍️ Commerce Operations Platform *(Personal Practice Lab)*
-Designed and built a comprehensive test automation framework simulating a high-volume, multi-tenant commerce operations platform. This personal project serves as an advanced practice lab to hone my skills in cutting-edge automation techniques.
-> **Highlights:** Achieved simulated **85% test coverage**, practiced risk-based test selection, and executed complex automated test data setup using SQL/SOQL scripts to test concurrent API stability and data integrity.
+Designed and built a comprehensive test automation framework simulating a commerce operations platform. This personal project serves as an advanced practice lab to hone my skills in cutting-edge automation techniques.
+> **Highlights:** Architected end-to-end UI workflows using the Page Object Model (POM), simulated complex e-commerce user scenarios, and mastered advanced Playwright capabilities like parallel execution and flaky test reduction.
 
-### 🤖 AI-Assisted Testing Initiatives *(Professional)*
+### 🤖 AI-Assisted Testing Initiatives
 Pioneered the use of Generative AI tools and SKILL.md-based Agent Skills to write robust test suites and handle repetitive maintenance at KnackLabs.
-> **Impact:** Shift-left flaky test reduction lowered release blockers by **25%** and dramatically improved CI/CD pipeline reliability.
+> **Impact:** Implemented shift-left flaky test reduction to minimize release blockers and dramatically improved CI/CD pipeline reliability.
 
 <br />
 
